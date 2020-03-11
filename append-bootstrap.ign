@@ -3,7 +3,7 @@
     "config": {
       "append": [
         {
-          "source": "<bootstrap_ignition_config_url>", 
+          "source": "https://github.com/bcastro17/opcvsphere/blob/master/append-bootstrap.ign", 
           "verification": {}
         }
       ]
